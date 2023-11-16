@@ -1,1 +1,5 @@
+jupyter
+IPython
 diagrams
+pillow
+imageio
